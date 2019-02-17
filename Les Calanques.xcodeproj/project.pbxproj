@@ -16,6 +16,8 @@
 		3A50FE05221968420025C8E0 /* ControleurAvecTableviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50FE04221968420025C8E0 /* ControleurAvecTableviewViewController.swift */; };
 		3A50FE072219685C0025C8E0 /* ControleurAvecCarte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50FE062219685C0025C8E0 /* ControleurAvecCarte.swift */; };
 		3A50FE09221968810025C8E0 /* TableViewIntegreController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50FE08221968810025C8E0 /* TableViewIntegreController.swift */; };
+		3A50FE0B22196F2B0025C8E0 /* CalanquesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50FE0A22196F2B0025C8E0 /* CalanquesCell.swift */; };
+		3A50FE0D221973670025C8E0 /* imageRonde.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A50FE0C221973670025C8E0 /* imageRonde.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		3A50FE04221968420025C8E0 /* ControleurAvecTableviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControleurAvecTableviewViewController.swift; sourceTree = "<group>"; };
 		3A50FE062219685C0025C8E0 /* ControleurAvecCarte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControleurAvecCarte.swift; sourceTree = "<group>"; };
 		3A50FE08221968810025C8E0 /* TableViewIntegreController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewIntegreController.swift; sourceTree = "<group>"; };
+		3A50FE0A22196F2B0025C8E0 /* CalanquesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalanquesCell.swift; sourceTree = "<group>"; };
+		3A50FE0C221973670025C8E0 /* imageRonde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageRonde.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 		3A50FDFE2219647A0025C8E0 /* Vues */ = {
 			isa = PBXGroup;
 			children = (
+				3A50FE0A22196F2B0025C8E0 /* CalanquesCell.swift */,
+				3A50FE0C221973670025C8E0 /* imageRonde.swift */,
 			);
 			path = Vues;
 			sourceTree = "<group>";
@@ -173,9 +179,11 @@
 			files = (
 				3A50FE09221968810025C8E0 /* TableViewIntegreController.swift in Sources */,
 				3A50FE05221968420025C8E0 /* ControleurAvecTableviewViewController.swift in Sources */,
+				3A50FE0B22196F2B0025C8E0 /* CalanquesCell.swift in Sources */,
 				3A50FE03221966D10025C8E0 /* CalanquesCollection.swift in Sources */,
 				3A50FE072219685C0025C8E0 /* ControleurAvecCarte.swift in Sources */,
 				3A50FDEA221960CC0025C8E0 /* AppDelegate.swift in Sources */,
+				3A50FE0D221973670025C8E0 /* imageRonde.swift in Sources */,
 				3A50FE01221965370025C8E0 /* Calanques.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
